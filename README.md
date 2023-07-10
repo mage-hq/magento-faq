@@ -1,5 +1,5 @@
 # magento-faq
-Magento 2 FAQ extension free allows admin to create, update, delete FAQ unlimited. Customers search for common questions, ask questions, and get answered on a list of frequently asked questions.
+Magento 2 FAQ extension allows you to offer your customers helpful information and answers to their frequent questions, which can enhance customer loyalty and confidence, enables you to create and manage a FAQ page on your store
 
 Please go to https://magehq.com/faq.html download free extension
 
